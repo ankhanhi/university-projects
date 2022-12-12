@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CS_Lab5_PIN_24_Khan_Anna</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="resource\" />
+  </ItemGroup>
+
+</Project>
